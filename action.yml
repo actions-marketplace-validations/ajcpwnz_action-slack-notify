@@ -1,6 +1,6 @@
-name: 'Slack Notify'
+name: 'Nice Slack Notify'
 description: 'This action will send a notification to Slack'
-author: 'rtCamp'
+author: 'ajcpwnz'
 runs:
   using: 'docker'
   image: 'docker://rtcamp/action-slack-notify:master'
